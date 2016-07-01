@@ -1,10 +1,10 @@
-# Networking
+### Networking
 
-Dependencies:
-wget
-openvpn
+## Dependencies:
+# wget
+# openvpn
 
-Shell utils:
-grep
-sed
-cut
+## Shell utils:
+# grep
+# sed
+# cut
